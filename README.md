@@ -55,8 +55,6 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -89,7 +87,7 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 
 ## 🧠 Skills
 
-- 💻 **Programming:** HTML, CSS, JavaScript
+- 💻 **Programming:** HTML
 - 🐧 **Linux:** Debian, XFCE, System setup
 - 🔧 **Hardware:** PC, Troubleshooting, Maintenance
 - 🎮 **Modding:** HOI4, Game projects, Worldbuilding
@@ -114,61 +112,6 @@ I believe in **free software** and the principles of the **GNU General Public Li
 - 🐧 **GNU/Linux** — I use Debian with XFCE as my main system
 
 > *"Free software is a matter of liberty, not price."* — Richard Stallman
-
----
-
-## 🤝 Friends & Brothers
-
-<div align="center">
-
-| 🛡️ Tverd | ⚡ Yonkia | 🔥 Koivo | 🌊 Femadoria |
-|:---:|:---:|:---:|:---:|
-
-</div>
-
----
-
-## 🎮 Games & Cartoons
-
-<div align="center">
-
-**Games:** 🎮 Hearts of Iron IV · Garry's Mod · Skyrim · Dark Souls 2 · Don't Starve Together  
-**Cartoons:** 🎬 Kikoriki ❤️ · BoJack Horseman · Rick and Morty · Gravity Falls · Futurama · My Little Pony ❤️
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner's Diploma — "Legacy of Outstanding Entrepreneurs of Russia"**  
-  *All-Russian competition on the history of entrepreneurship. Finalist of the regional stage in Tver.*
-
-- 📜 **Participant Certificate — "Through the Pages of the Great Victory"**  
-  *Team intellectual game dedicated to the 80th anniversary of Victory in the Great Patriotic War 1941–1945.*
-
-- 🥇 **Winner's Diploma — "Scarlet Sails"**  
-  *Winner of the All-Russian distance Olympiad in Physics among students of professional educational organizations.*
-
----
-
-## 📚 My Wiki
-
-### 🟢 Coalition Iron Will — *Active*
-> Alliance of close friends and companions. A brotherhood of like-minded people united by common goals and values.  
-> `Alliance` `Friends` `Companions`
-
-### 🔵 Roza OS — *Planned*
-> Debian-based Linux distribution with XFCE desktop and preinstalled packages.  
-> `Debian` `XFCE` `Linux`
-
-### ❄️ Solarium Umbris — *Frozen*
-> Mod for Hearts of Iron IV with unique states and alternative history.  
-> `HOI4` `Mod` `Alternative history`
-
-### ❄️ Special Army "Black Order" — *Frozen*
-> Elite military unit in BRM 5 — a faction for experienced players.  
-> `BRM 5` `RP Faction`
 
 ---
 
