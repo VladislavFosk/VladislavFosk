@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Привет, я Владислав!
+# 👋 Hi there, I'm Vladislav!
 
-### 💻 Python-разработчик | 🚀 Вечный студент | 🐧 Linux & Windows
+### 💻 Python Developer | 🚀 Eternal Student | 🐧 Linux & Windows
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Free+Software+Enthusiast;GNU%2FLinux+User;Always+Learning+Something+New)](https://git.io/typing-svg)
 
@@ -10,19 +10,19 @@
 
 ---
 
-## 🧑‍💻 Обо мне
+## 🧑‍💻 About Me
 
-- 🔭 Сейчас работаю над **интересными проектами на Python**
-- 🌱 Изучаю **новые технологии каждый день**
-- 👯 Открыт к **коллаборациям и open-source**
-- 💬 Спроси меня о **Python, Linux, разработке**
-- 🐧 **Сторонник Free Software и GNU GPL**
-- 📫 Как связаться: **Telegram @VladislavFoskKosarh**
-- ⚡ Фан-факт: **кодю под lo-fi музыку 🎧**
+- 🔭 Currently working on **interesting Python projects**
+- 🌱 Learning **new technologies every day**
+- 👯 Open to **collaborations and open-source**
+- 💬 Ask me about **Python, Linux, development**
+- 🐧 **Free Software and GNU GPL advocate**
+- 📫 How to reach me: **Telegram @VladislavFoskKosarh**
+- ⚡ Fun fact: **I code to lo-fi music 🎧**
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -48,18 +48,18 @@
 
 </div>
 
-Я верю в **свободное программное обеспечение** и принципы **GNU General Public License**:
+I believe in **free software** and the principles of the **GNU General Public License**:
 
-- 🕊️ **Свобода** — запускать, изучать, изменять и распространять ПО
-- 🤝 **Сообщество** — код принадлежит всем, кто им пользуется
-- 🔓 **Открытость** — прозрачность важнее закрытых чёрных ящиков
-- 🐧 **GNU/Linux** — использую Debian с XFCE как основную систему
+- 🕊️ **Freedom** — to run, study, modify, and distribute software
+- 🤝 **Community** — code belongs to everyone who uses it
+- 🔓 **Openness** — transparency matters more than closed black boxes
+- 🐧 **GNU/Linux** — I use Debian with XFCE as my main system
 
-> «Free software is a matter of liberty, not price.» — Richard Stallman
+> "Free software is a matter of liberty, not price." — Richard Stallman
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -76,27 +76,27 @@
 
 ---
 
-## 🌐 Мой сайт — Solarium Umbris
+## 🌐 My Website — Solarium Umbris
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Solarium_Umbris-160a17?style=for-the-badge&logo=firefox&logoColor=d946ef)](https://github.com/VladislavFosk)
 
-**Solarium Umbris** — энциклопедия миров, проектов и идей.  
-Мир Косарха, Coalition Iron Will и другие проекты.
+**Solarium Umbris** — an encyclopedia of worlds, projects, and ideas.  
+The World of Kosarh, Coalition Iron Will, and other projects.
 
 </div>
 
 ---
 
-## 🤝 Связаться со мной
+## 🤝 Connect with Me
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavFoskKosarh)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VladislavFoskKosarh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladislavFosk)
-[![GameJolt](https://img.shields.io/badge/GameJolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black)](https://gamejolt.com/@VladislavFosk)
+[![GameJolt](https://img.shields.io/badge/GameJolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black)](https://gamejolt.com/@Vladislav-Foskarh)
 
 </div>
 
@@ -108,6 +108,6 @@
 
 ⚔️ Made by the **Coalition Iron Will**
 
-⭐️ **Спасибо за визит!** ⭐️
+⭐️ **Thanks for visiting!** ⭐️
 
 </div>
