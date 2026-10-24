@@ -18,17 +18,6 @@
 
 ---
 
-## 🧑‍💻 Quick Info
-
-| | | |
-|---|---|---|
-| 🎂 **Age** | 🏴 **Nationality** | 🎓 **Education** |
-| 18 years | Kosarh | Technician |
-| ⚔️ **Organization** | 🐧 **OS** | 📫 **Contact** |
-| Coalition Iron Will | Debian + XFCE | @VladislavFoskKosarh |
-
----
-
 ## 📜 About Me
 
 **Hi.** My main job is as a maintenance technician — I work with equipment and hardware. Programming is my new hobby; I'm just starting to get into it, learning little by little. I want to create something of my own, even if it's small, but made with my own hands.
@@ -74,17 +63,6 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 
 ---
 
-## 💻 Operating Systems
-
-<div align="center">
-
-![Windows](https://img.shields.io/badge/🪟_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/🐧_Debian_XFCE-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-</div>
-
----
-
 ## 🧠 Skills
 
 - 💻 **Programming:** HTML
@@ -127,19 +105,6 @@ I believe in **free software** and the principles of the **GNU General Public Li
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavFosk&theme=tokyonight)
-
-</div>
-
----
-
-## 🌐 My Website — Solarium Umbris
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Solarium_Umbris-160a17?style=for-the-badge&logo=firefox&logoColor=d946ef)](https://github.com/VladislavFosk)
-
-**Solarium Umbris** — an encyclopedia of worlds, projects, and ideas.  
-The World of Kosarh, Coalition Iron Will, and other projects.
 
 </div>
 
