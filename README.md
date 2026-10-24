@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 VladislavFosk / Python Developer
+# 🐧 VladislavFosk / Kosarh
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d946ef&center=true&vCenter=true&width=700&lines=Vladislav+Fosk;Free+Software+Enthusiast;GNU%2FLinux+User;Coalition+Iron+Will)](https://git.io/typing-svg)
 
