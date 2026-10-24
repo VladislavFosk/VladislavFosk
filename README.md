@@ -1,20 +1,35 @@
 <div align="center">
 
-# 👋 Hi there, I'm Vladislav!
-
-### 💻 Python Developer | 🚀 Eternal Student | 🐧 Linux & Windows
+# 🐧 VladislavFosk / Python Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d946ef&center=true&vCenter=true&width=700&lines=Vladislav+Fosk;Free+Software+Enthusiast;GNU%2FLinux+User;Coalition+Iron+Will)](https://git.io/typing-svg)
 
 **Vladislav Fosk-Kosarh** · `@Foskarh`  
 👑 Supreme Sovereign of the Kosarh Free Land
 
-[![Developer](https://img.shields.io/badge/💻_Developer-26102a?style=for-the-badge&labelColor=4a1e42)](#)
-[![Linux](https://img.shields.io/badge/🐧_Linux-26102a?style=for-the-badge&labelColor=4a1e42)](#)
-[![Creator](https://img.shields.io/badge/🛠️_Creator-26102a?style=for-the-badge&labelColor=4a1e42)](#)
-[![Coalition Iron Will](https://img.shields.io/badge/⚔️_Coalition_Iron_Will-26102a?style=for-the-badge&labelColor=4a1e42)](#)
-
 </div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
 
 ---
 
@@ -32,29 +47,20 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 
 [![Sun Child](https://img.shields.io/badge/☀️_Sun_Child-e0b64a?style=for-the-badge&labelColor=26102a)](#)
 [![Orthodox Christian](https://img.shields.io/badge/✝️_Orthodox_Christian-d946ef?style=for-the-badge&labelColor=26102a)](#)
+[![Developer](https://img.shields.io/badge/💻_Developer-26102a?style=for-the-badge&labelColor=4a1e42)](#)
+[![Creator](https://img.shields.io/badge/🛠️_Creator-26102a?style=for-the-badge&labelColor=4a1e42)](#)
+[![Coalition Iron Will](https://img.shields.io/badge/⚔️_Coalition_Iron_Will-26102a?style=for-the-badge&labelColor=4a1e42)](#)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills & Languages
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🗣️ Languages
+- 💻 **Programming:** HTML
+- 🐧 **Linux:** Debian, XFCE, System setup
+- 🔧 **Hardware:** PC, Troubleshooting, Maintenance
+- 🎮 **Modding:** HOI4, Game projects, Worldbuilding
 
 | Flag | Language | Level |
 |:---:|---|---|
@@ -63,24 +69,17 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 
 ---
 
-## 🧠 Skills
-
-- 💻 **Programming:** HTML
-- 🐧 **Linux:** Debian, XFCE, System setup
-- 🔧 **Hardware:** PC, Troubleshooting, Maintenance
-- 🎮 **Modding:** HOI4, Game projects, Worldbuilding
-
----
-
 ## 🐧 Free Software & GNU GPL
 
 <div align="center">
-
-![GNU GPL](https://img.shields.io/badge/License-GNU_GPL_v3-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Free Software](https://img.shields.io/badge/Free_Software-✓-4ade80?style=for-the-badge&logo=gnu&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open_Source-❤️-e11d48?style=for-the-badge)
-
+  <img src="https://skillicons.dev/icons?i=gnu" height="40" alt="gnu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+
+<br>
 
 I believe in **free software** and the principles of the **GNU General Public License**:
 
@@ -95,30 +94,43 @@ I believe in **free software** and the principles of the **GNU General Public Li
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VladislavFosk&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VladislavFosk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavFosk&layout=compact&theme=tokyonight&langs_count=8"/>
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=VladislavFosk&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
-</div>
+---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavFosk&theme=tokyonight)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 ## 🤝 Connect with Me
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavFoskKosarh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VladislavFoskKosarh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladislavFosk)
-[![GameJolt](https://img.shields.io/badge/GameJolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black)](https://gamejolt.com/@Vladislav-Foskarh)
-
+  <a href="https://t.me/VladislavFoskKosarh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@VladislavFoskKosarh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://github.com/VladislavFosk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+  <a href="https://gamejolt.com/@Vladislav-Foskarh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GameJolt&logo=gamejolt&label=&color=CCFF00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gamejolt logo"  />
+  </a>
 </div>
 
 ---
