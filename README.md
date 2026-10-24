@@ -4,7 +4,7 @@
 
 ### 💻 Python Developer | 🚀 Eternal Student | 🐧 Linux & Windows
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d946ef&center=true&vCenter=true&width=700&lines=Python+Developer;Free+Software+Enthusiast;GNU%2FLinux+User;Coalition+Iron+Will)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d946ef&center=true&vCenter=true&width=700&lines=Vladislav+Fosk;Free+Software+Enthusiast;GNU%2FLinux+User;Coalition+Iron+Will)](https://git.io/typing-svg)
 
 **Vladislav Fosk-Kosarh** · `@Foskarh`  
 👑 Supreme Sovereign of the Kosarh Free Land
