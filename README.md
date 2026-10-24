@@ -2,9 +2,9 @@
 
 # 👋 Привет, я Владислав!
 
-### 💻 Разработчик | 🚀 Вечный студент | ☕ Кофеинозависимый
+### 💻 Python-разработчик | 🚀 Вечный студент | 🐧 Linux & Windows
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Free+Software+Enthusiast;GNU%2FLinux+User;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +12,12 @@
 
 ## 🧑‍💻 Обо мне
 
-- 🔭 Сейчас работаю над **интересными проектами**
+- 🔭 Сейчас работаю над **интересными проектами на Python**
 - 🌱 Изучаю **новые технологии каждый день**
 - 👯 Открыт к **коллаборациям и open-source**
-- 💬 Спроси меня о **Python, JavaScript, разработке**
-- 📫 Как связаться: **твой@email.com**
+- 💬 Спроси меня о **Python, Linux, разработке**
+- 🐧 **Сторонник Free Software и GNU GPL**
+- 📫 Как связаться: **Telegram @VladislavFoskKosarh**
 - ⚡ Фан-факт: **кодю под lo-fi музыку 🎧**
 
 ---
@@ -26,17 +27,35 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🐧 Free Software & GNU GPL
+
+<div align="center">
+
+![GNU GPL](https://img.shields.io/badge/License-GNU_GPL_v3-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Free Software](https://img.shields.io/badge/Free_Software-✓-4ade80?style=for-the-badge&logo=gnu&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-❤️-e11d48?style=for-the-badge)
+
+</div>
+
+Я верю в **свободное программное обеспечение** и принципы **GNU General Public License**:
+
+- 🕊️ **Свобода** — запускать, изучать, изменять и распространять ПО
+- 🤝 **Сообщество** — код принадлежит всем, кто им пользуется
+- 🔓 **Открытость** — прозрачность важнее закрытых чёрных ящиков
+- 🐧 **GNU/Linux** — использую Debian с XFCE как основную систему
+
+> «Free software is a matter of liberty, not price.» — Richard Stallman
 
 ---
 
@@ -57,31 +76,14 @@
 
 ---
 
-## 🏆 Трофеи GitHub
+## 🌐 Мой сайт — Solarium Umbris
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VladislavFosk&theme=tokyonight&row=1&column=7)
+[![Website](https://img.shields.io/badge/Solarium_Umbris-160a17?style=for-the-badge&logo=firefox&logoColor=d946ef)](https://github.com/VladislavFosk)
 
-</div>
-
----
-
-## 📈 График активности
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VladislavFosk&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Змейка ест мои коммиты
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/output/github-contribution-grid-snake.svg)
+**Solarium Umbris** — энциклопедия миров, проектов и идей.  
+Мир Косарха, Coalition Iron Will и другие проекты.
 
 </div>
 
@@ -91,10 +93,10 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_профиль)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@email.com)
-[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/твой_ник)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavFoskKosarh)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VladislavFoskKosarh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladislavFosk)
+[![GameJolt](https://img.shields.io/badge/GameJolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=black)](https://gamejolt.com/@VladislavFosk)
 
 </div>
 
@@ -103,6 +105,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VladislavFosk&color=blueviolet&style=for-the-badge)
+
+⚔️ Made by the **Coalition Iron Will**
 
 ⭐️ **Спасибо за визит!** ⭐️
 
