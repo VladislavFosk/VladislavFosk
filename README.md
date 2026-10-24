@@ -73,10 +73,6 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=gnu" height="40" alt="gnu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 <br>
@@ -100,18 +96,6 @@ I believe in **free software** and the principles of the **GNU General Public Li
 
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=VladislavFosk&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/VladislavFosk/VladislavFosk/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
