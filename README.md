@@ -4,37 +4,95 @@
 
 ### 💻 Python Developer | 🚀 Eternal Student | 🐧 Linux & Windows
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Free+Software+Enthusiast;GNU%2FLinux+User;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d946ef&center=true&vCenter=true&width=700&lines=Python+Developer;Free+Software+Enthusiast;GNU%2FLinux+User;Coalition+Iron+Will)](https://git.io/typing-svg)
+
+**Vladislav Fosk-Kosarh** · `@Foskarh`  
+👑 Supreme Sovereign of the Kosarh Free Land
+
+[![Developer](https://img.shields.io/badge/💻_Developer-26102a?style=for-the-badge&labelColor=4a1e42)](#)
+[![Linux](https://img.shields.io/badge/🐧_Linux-26102a?style=for-the-badge&labelColor=4a1e42)](#)
+[![Creator](https://img.shields.io/badge/🛠️_Creator-26102a?style=for-the-badge&labelColor=4a1e42)](#)
+[![Coalition Iron Will](https://img.shields.io/badge/⚔️_Coalition_Iron_Will-26102a?style=for-the-badge&labelColor=4a1e42)](#)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Quick Info
 
-- 🔭 Currently working on **interesting Python projects**
-- 🌱 Learning **new technologies every day**
-- 👯 Open to **collaborations and open-source**
-- 💬 Ask me about **Python, Linux, development**
-- 🐧 **Free Software and GNU GPL advocate**
-- 📫 How to reach me: **Telegram @VladislavFoskKosarh**
-- ⚡ Fun fact: **I code to lo-fi music 🎧**
+| | | |
+|---|---|---|
+| 🎂 **Age** | 🏴 **Nationality** | 🎓 **Education** |
+| 18 years | Kosarh | Technician |
+| ⚔️ **Organization** | 🐧 **OS** | 📫 **Contact** |
+| Coalition Iron Will | Debian + XFCE | @VladislavFoskKosarh |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📜 About Me
+
+**Hi.** My main job is as a maintenance technician — I work with equipment and hardware. Programming is my new hobby; I'm just starting to get into it, learning little by little. I want to create something of my own, even if it's small, but made with my own hands.
+
+I put effort into it, trying to figure things out even when something doesn't work. It's my escape.
+
+But I'm human, and emotions take their toll. When something goes wrong — code gets stuck, a project won't compile, or just some little thing throws me off — I get upset. I can withdraw into myself, go quiet, stop noticing what's going on around me.
+
+That's how I am. With all my ups and downs, weaknesses, and stubbornness.
+
+<div align="center">
+
+[![Sun Child](https://img.shields.io/badge/☀️_Sun_Child-e0b64a?style=for-the-badge&labelColor=26102a)](#)
+[![Orthodox Christian](https://img.shields.io/badge/✝️_Orthodox_Christian-d946ef?style=for-the-badge&labelColor=26102a)](#)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🗣️ Languages
+
+| Flag | Language | Level |
+|:---:|---|---|
+| 🇷🇺 | Russian | **Native** |
+| 🇬🇧 | English | **So-so** *(often use translator)* |
+
+---
+
+## 💻 Operating Systems
+
+<div align="center">
+
+![Windows](https://img.shields.io/badge/🪟_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/🐧_Debian_XFCE-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 Skills
+
+- 💻 **Programming:** HTML, CSS, JavaScript
+- 🐧 **Linux:** Debian, XFCE, System setup
+- 🔧 **Hardware:** PC, Troubleshooting, Maintenance
+- 🎮 **Modding:** HOI4, Game projects, Worldbuilding
 
 ---
 
@@ -55,7 +113,62 @@ I believe in **free software** and the principles of the **GNU General Public Li
 - 🔓 **Openness** — transparency matters more than closed black boxes
 - 🐧 **GNU/Linux** — I use Debian with XFCE as my main system
 
-> "Free software is a matter of liberty, not price." — Richard Stallman
+> *"Free software is a matter of liberty, not price."* — Richard Stallman
+
+---
+
+## 🤝 Friends & Brothers
+
+<div align="center">
+
+| 🛡️ Tverd | ⚡ Yonkia | 🔥 Koivo | 🌊 Femadoria |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## 🎮 Games & Cartoons
+
+<div align="center">
+
+**Games:** 🎮 Hearts of Iron IV · Garry's Mod · Skyrim · Dark Souls 2 · Don't Starve Together  
+**Cartoons:** 🎬 Kikoriki ❤️ · BoJack Horseman · Rick and Morty · Gravity Falls · Futurama · My Little Pony ❤️
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner's Diploma — "Legacy of Outstanding Entrepreneurs of Russia"**  
+  *All-Russian competition on the history of entrepreneurship. Finalist of the regional stage in Tver.*
+
+- 📜 **Participant Certificate — "Through the Pages of the Great Victory"**  
+  *Team intellectual game dedicated to the 80th anniversary of Victory in the Great Patriotic War 1941–1945.*
+
+- 🥇 **Winner's Diploma — "Scarlet Sails"**  
+  *Winner of the All-Russian distance Olympiad in Physics among students of professional educational organizations.*
+
+---
+
+## 📚 My Wiki
+
+### 🟢 Coalition Iron Will — *Active*
+> Alliance of close friends and companions. A brotherhood of like-minded people united by common goals and values.  
+> `Alliance` `Friends` `Companions`
+
+### 🔵 Roza OS — *Planned*
+> Debian-based Linux distribution with XFCE desktop and preinstalled packages.  
+> `Debian` `XFCE` `Linux`
+
+### ❄️ Solarium Umbris — *Frozen*
+> Mod for Hearts of Iron IV with unique states and alternative history.  
+> `HOI4` `Mod` `Alternative history`
+
+### ❄️ Special Army "Black Order" — *Frozen*
+> Elite military unit in BRM 5 — a faction for experienced players.  
+> `BRM 5` `RP Faction`
 
 ---
 
