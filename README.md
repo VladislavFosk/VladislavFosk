@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 VladislavFosk / Kosarh
+# 🐧 VladislavFosk / Python Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d946ef&center=true&vCenter=true&width=700&lines=Vladislav+Fosk;Free+Software+Enthusiast;GNU%2FLinux+User;Coalition+Iron+Will)](https://git.io/typing-svg)
 
@@ -13,6 +13,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
@@ -57,7 +59,7 @@ That's how I am. With all my ups and downs, weaknesses, and stubbornness.
 
 ## 🧠 Skills & Languages
 
-- 💻 **Programming:** HTML
+- 💻 **Programming:** Python, C++, HTML
 - 🐧 **Linux:** Debian, XFCE, System setup
 - 🔧 **Hardware:** PC, Troubleshooting, Maintenance
 - 🎮 **Modding:** HOI4, Game projects, Worldbuilding
