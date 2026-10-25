@@ -97,6 +97,10 @@ I believe in **free software** and the principles of the **GNU General Public Li
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavFosk&layout=compact&theme=bear&locale=ru&langs_count=8&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=VladislavFosk&theme=radical&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
