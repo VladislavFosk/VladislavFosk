@@ -92,16 +92,13 @@ I believe in **free software** and the principles of the **GNU General Public Li
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=VladislavFosk&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladislavFosk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=d946ef&icon_color=d946ef&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=30&locale=ru" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavFosk&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=6&cache_seconds=1800&locale=ru" height="150" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavFosk&layout=compact&theme=bear&locale=ru&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=VladislavFosk&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladislavFosk&theme=dark&hide_border=true&background=0D1117&stroke=d946ef&ring=d946ef&fire=d946ef&currStreakLabel=d946ef&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" height="150" alt="GitHub Streak" />
 </p>
 
 ---
