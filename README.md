@@ -86,8 +86,7 @@ I believe in **free software** and the principles of the **GNU General Public Li
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladislavFosk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=d946ef&icon_color=d946ef&text_color=C9D1D9&include_all_commits=true&cache_seconds=30" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavFosk&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=6&cache_seconds=1800" height="150" alt="Top Languages" />
+  <img src="./github-metrics.svg" alt="GitHub Stats" />
 </p>
 
 ---
