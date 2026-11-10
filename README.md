@@ -50,14 +50,14 @@ When something goes wrong I can get frustrated and go quiet for a while, but I a
 | Area | What I do |
 |---|---|
 | 💻 **Programming** | Python, C++, HTML: learning and practicing |
-| 🐧 **Linux** | Debian + XFCE, system setup and configuration |
+| 🐧 **Linux** | Debian |
 | 🔧 **Hardware** | PC assembly, troubleshooting, maintenance |
 | 🎮 **Modding** | HOI4 mods, game projects, worldbuilding |
 
 | Language | Level |
 |---|---|
 | 🇷🇺 Russian | **Native** |
-| 🇬🇧 English | **Basic**: I read documentation with a translator and keep improving |
+| 🇬🇧 English | **Basic**: I use a translator for most things, but I can understand simple English on my own |
 
 ---
 
@@ -77,7 +77,7 @@ I believe in **free software** and the principles of the **GNU General Public Li
 - 🕊️ **Freedom**: to run, study, modify and share software
 - 🤝 **Community**: code belongs to everyone who uses it
 - 🔓 **Openness**: transparency matters more than closed black boxes
-- 🐧 **GNU/Linux**: Debian with XFCE is my daily driver
+- 🐧 **GNU/Linux**: I love Debian.
 
 > *"Free software is a matter of liberty, not price."* — Richard Stallman
 
