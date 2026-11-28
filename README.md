@@ -21,7 +21,7 @@ When something goes wrong I can get frustrated and go quiet for a while, but I a
 <div align="center">
 
 [![Sun Child](https://img.shields.io/badge/☀️_Sun_Child-e0b64a?style=for-the-badge&labelColor=26102a)](#)
-[![Orthodox Christian](https://img.shields.io/badge/✝️_A-secular-humanist-with-a-Christian-ethical-background.-d946ef?style=for-the-badge&labelColor=26102a)](#)
+[![Secular Humanist](https://img.shields.io/badge/✝️_Secular_Humanist_with_Christian_Ethics-d946ef?style=for-the-badge&labelColor=26102a)](#)
 [![Developer](https://img.shields.io/badge/💻_Developer-26102a?style=for-the-badge&labelColor=4a1e42)](#)
 [![Creator](https://img.shields.io/badge/🛠️_Creator-26102a?style=for-the-badge&labelColor=4a1e42)](#)
 [![Coalition Iron Will](https://img.shields.io/badge/⚔️_Coalition_Iron_Will-26102a?style=for-the-badge&labelColor=4a1e42)](#)
